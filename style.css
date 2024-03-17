@@ -1,0 +1,16 @@
+p {
+  color: blue;
+}
+
+div p,
+h1 {
+  color: red;
+}
+
+.mydiv p {
+  color: gray;
+}
+
+.mydiv .mytext {
+  color: green;
+}
